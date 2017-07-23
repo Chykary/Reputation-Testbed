@@ -1,0 +1,2 @@
+# Reputation-Testbed
+This testbed was implemented within my master's thesis. It adds a framework to set up agents with specific behaviours in a classroom context and allows for reputation algorithms to be tested on the actions resulting from the agent's behaviour. Output plugins visualize or textualize the resulting reputation scores. The thesis can be read here: http://www.en.pms.ifi.lmu.de/publications/diplomarbeiten/Marco.Hoffmann/DA_Marco.Hoffmann.pdf
